@@ -4,11 +4,14 @@ This project is an SQL-based relational database designed to mimic the structure
 
 
 •	Comprehensive ERD Diagram: Visual representation of the database structure.
+
 •	Well-Designed Tables: Includes entities such as Users, Songs, Playlists, Artists, Albums, Payments, Subscriptions, and multiple intersection tables for managing relationships.
 
 
 •	Stored Procedures: Functions like user authentication, user activity logs, and payment history retrieval enhance usability.
+
 •	Dynamic Views: Predefined views like Most Listened Songs, Liked Songs, and User Country Status provide quick insights.
+
 •	Efficient Indexes: Optimized indexes on frequently queried columns for enhanced database performance.
 
 
