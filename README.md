@@ -24,4 +24,4 @@ Designed as an educational project, this database simulates a music streaming se
 
 
 ## Here is the entity relationship diagram (ERD) of our project
-![ERD](erd)
+![ERD](entity_relationship_diagram)
